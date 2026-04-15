@@ -3,7 +3,7 @@
 
 **Objective:**
 
-> **(1)** Predict whether a person belongs to the income group above \$50,000 or at or below \$50,000, and  
+> **(1)** Predict whether a person belongs to the income group above \$50,000 or at or below \$50,000      
 > **(2)** Create customer segments that can support a more targeted marketing strategy.
 
 This repository contains code for data loading, preprocessing, classification modeling, segmentation modeling, and result generation.
