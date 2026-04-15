@@ -62,6 +62,7 @@ TakeHomeProject-JPMC/
 └── outputs/
     └── tables/
 ```
+---
 
 ## 🚀 Run Locally
 
@@ -85,6 +86,8 @@ census\Scripts\activate
 pip install -r requirements.txt
 ```
 
+---
+
 ## 📋 Requirements
 The project dependencies are listed in ```requirements.txt```:
 
@@ -96,6 +99,8 @@ matplotlib
 seaborn
 joblib
 ```
+
+---
 
 ## ▶️ How to Execute the Code
 Run all commands from the project root directory.
@@ -161,6 +166,8 @@ This script:
 ```bash
 python src/segment_customers.py
 ```
+---
+
 ## 📊 Output Files
 
 Running the scripts generates outputs in the ```outputs/``` directory.
